@@ -1,16 +1,16 @@
 
-TITLE Program Template     (template.asm)
+TITLE Program Template     (proj_2_aguilera_joe.asm)
 
 ; Author: Joe Aguilera
 ; Course / Project ID: Project 2  CS271 Winter 2016	Date: 1/22/2016
 ; Description: Write a program to calculate Fibonacci numbers.
-;Display the program title and programmer’s name. Then get the user’s name, and greet the user.
+;Display the program title and programmerâ€™s name. Then get the userâ€™s name, and greet the user.
 ;Prompt the user to enter the number of Fibonacci terms to be displayed. Advise the user to enter an integer
 ;in the range [1 .. 46].
 ;Get and validate the user input (n).
 ;Calculate and display all of the Fibonacci numbers up to and including the nth term. The results should be
 ;displayed 5 terms per line with at least 5 spaces between terms.
-;Display a parting message that includes the user’s name, and terminate the program.
+;Display a parting message that includes the userâ€™s name, and terminate the program.
 
 INCLUDE Irvine32.inc
 
