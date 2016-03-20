@@ -1,10 +1,10 @@
-TITLE Program Template     (template.asm)
+TITLE Program Template     (proj_3_aguilera_joe.asm)
 
 ; Author: Joe Aguilera
 ; Course / Project ID: Project 3  CS271 Winter 2016	Date: 2/7/2016
 ; Description:Write and test a MASM program to perform the following tasks:
-;1. Display the program title and programmer’s name.
-;2. Get the user’s name, and greet the user.
+;1. Display the program title and programmerâ€™s name.
+;2. Get the userâ€™s name, and greet the user.
 ;3. Display instructions for the user.
 ;4. Repeatedly prompt the user to enter a number. Validate the user input to be in [-100, -1] (inclusive).
 ;Count and accumulate the valid user numbers until a non-negative number is entered. (The nonnegative
