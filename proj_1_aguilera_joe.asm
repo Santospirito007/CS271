@@ -1,4 +1,4 @@
-TITLE Program Template     (template.asm)
+TITLE Program Template     (proj_1_aguilera_joe.asm)
 
 ; Author: Joe Aguilera
 ; Course / Project ID:CS271 Winter 2016 Program 1      Date:1/18/2016
